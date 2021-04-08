@@ -37,7 +37,7 @@ The organization is intended for Massachusetts educators and other stakeholders 
 
 ## Talks
 
-- [NEMATYC Horton DSC-WAV](NEMATYC-Horton.pdf)
+- [NEMATYC Horton DSC-WAV](static/NEMATYC-Horton.pdf)
 
 ## Acknowledgements
 
