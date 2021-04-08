@@ -22,4 +22,6 @@ The organization is intended for Massachusetts educators and other stakeholders 
 - [Data Science for Undergraduates (NASEM 2018)](https://nas.edu/envisioningds)
 - [NASEM Roundtable on Data Science Postsecondary Education](https://www.nationalacademies.org/event/06-12-2019/roundtable-on-data-science-postsecondary-education-meeting-11)
 
+Thanks to NSF grant 1923388 for support of the DSC-WAV project.
+
 Last updated April 8, 2021

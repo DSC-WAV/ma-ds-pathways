@@ -5,16 +5,16 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\nWelcome to the Massachusetts Data Science Pathways project.\nThis organization is for Massachusetts educators and other stakeholders focused on data science pathways from high school through two- and four- colleges and universities.\n\n\n\n",
-      "last_modified": "2021-04-08T10:49:23-04:00"
+      "contents": "\nWelcome to the Massachusetts Data Science Pathways project.\nThis organization is for Massachusetts educators and other stakeholders focused on data science pathways from high school through two- and four- colleges and universities.\nFor more information please contact Nicholas Horton (Amherst College).\n\n\n\n",
+      "last_modified": "2021-04-08T10:55:43-04:00"
     },
     {
       "path": "index.html",
       "title": "Massachusetts Data Science Pathways project",
       "description": "Welcome to the website.\n",
       "author": [],
-      "contents": "\nThis website describes the Massachusetts Data Science Pathways project.\nThe organization is intended for Massachusetts educators and other stakeholders focused on data science pathways from high school through two- and four- colleges and universities.\nResources\nDSC-WAV project\nTwo Year College Data Science Summit\nData Science for Undergraduates (NASEM 2018)\nNASEM Roundtable on Data Science Postsecondary Education\nLast updated April 8, 2021\n\n\n\n",
-      "last_modified": "2021-04-08T10:49:24-04:00"
+      "contents": "\nThis website describes the Massachusetts Data Science Pathways project.\nThe organization is intended for Massachusetts educators and other stakeholders focused on data science pathways from high school through two- and four- colleges and universities.\nResources\nDSC-WAV project\nTwo Year College Data Science Summit\nData Science for Undergraduates (NASEM 2018)\nNASEM Roundtable on Data Science Postsecondary Education\nThanks to NSF grant 1923388 for support of the DSC-WAV project.\nLast updated April 8, 2021\n\n\n\n",
+      "last_modified": "2021-04-08T10:55:43-04:00"
     }
   ],
   "collections": []
