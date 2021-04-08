@@ -35,6 +35,10 @@ The organization is intended for Massachusetts educators and other stakeholders 
 - [ECEP Alliance](https://ecepalliance.org)
 - [COPSS DEI Task Force](https://community.amstat.org/copss/who/dei)
 
+## Talks
+
+- [NEMATYC Horton DSC-WAV](NEMATYC-Horton.pdf)
+
 ## Acknowledgements
 
 Thanks to NSF grant 1923388 for support of the DSC-WAV project.
