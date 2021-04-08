@@ -17,10 +17,25 @@ The organization is intended for Massachusetts educators and other stakeholders 
 
 ## Resources
 
-- [DSC-WAV project](http://dsc-wav.github.io/www/)
+- [DSC-WAV project](http://dsc-wav.github.io/www/) and related [paper](https://hdsr.mitpress.mit.edu/pub/nvflcexe/release/1)
 - [Two Year College Data Science Summit](https://www.amstat.org/ASA/Education/Two-Year-College-Data-Science-Summit.aspx)
 - [Data Science for Undergraduates (NASEM 2018)](https://nas.edu/envisioningds)
 - [NASEM Roundtable on Data Science Postsecondary Education](https://www.nationalacademies.org/event/06-12-2019/roundtable-on-data-science-postsecondary-education-meeting-11)
+- [Integrating computing in the statistics and data science curriculum (JSDSE)](https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1870416)
+
+## Introductory Data Science Courses
+
+- [Berkeley Data 8](http://data8.org)
+- [Data Science in a Box](https://datasciencebox.org)
+- [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e)
+- [A fresh look at introductory data science](https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1804497?src=recsys)
+
+## Broadening Participation
+
+- [ECEP Alliance](https://ecepalliance.org)
+- [COPSS DEI Task Force](https://community.amstat.org/copss/who/dei)
+
+## Acknowledgements
 
 Thanks to NSF grant 1923388 for support of the DSC-WAV project.
 
