@@ -1,0 +1,12 @@
+name: "ma-ds-pathways"
+title: "Massachusetts Data Science Pathways project"
+description: |
+  Massachusetts Data Science Pathways project
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

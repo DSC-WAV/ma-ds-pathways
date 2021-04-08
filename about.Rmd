@@ -1,0 +1,14 @@
+---
+title: "About this site"
+description: |
+  Some additional details about the website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Welcome to the Massachusetts Data Science Pathways project.
+
+This organization is for Massachusetts educators and other stakeholders focused on data science pathways from high school through two- and four- colleges and universities.
+

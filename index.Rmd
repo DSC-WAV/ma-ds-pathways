@@ -1,3 +1,25 @@
 ---
-site: blogdown:::blogdown_site
+title: "Massachusetts Data Science Pathways project"
+description: |
+  Welcome to the website.
+site: distill::distill_website
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+
+This website describes the Massachusetts Data Science Pathways project.
+
+The organization is intended for Massachusetts educators and other stakeholders focused on data science pathways from high school through two- and four- colleges and universities.
+
+## Resources
+
+- [DSC-WAV project](http://dsc-wav.github.io/www/)
+- [Two Year College Data Science Summit](https://www.amstat.org/ASA/Education/Two-Year-College-Data-Science-Summit.aspx)
+- [Data Science for Undergraduates (NASEM 2018)](https://nas.edu/envisioningds)
+- [NASEM Roundtable on Data Science Postsecondary Education](https://www.nationalacademies.org/event/06-12-2019/roundtable-on-data-science-postsecondary-education-meeting-11)
+
+Last updated April 8, 2021
