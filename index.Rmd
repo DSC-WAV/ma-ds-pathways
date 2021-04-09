@@ -15,6 +15,9 @@ This website describes the Massachusetts Data Science Pathways project.
 
 The organization is intended for Massachusetts educators and other stakeholders focused on data science pathways from high school through two- and four- colleges and universities.
 
+To join our low volume mailing list please send an email `ma-ds-pathways-join AT cs.umass.edu`.
+The subject and body of the message will be ignored, so it doesn't matter what you provide.
+
 ## Resources
 
 - [DSC-WAV project](http://dsc-wav.github.io/www/) and related [paper](https://hdsr.mitpress.mit.edu/pub/nvflcexe/release/1)
