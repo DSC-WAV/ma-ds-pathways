@@ -18,9 +18,14 @@ The organization is intended for Massachusetts educators and other stakeholders 
 To join our low volume mailing list please send an email `ma-ds-pathways-join AT cs.umass.edu`.
 The subject and body of the message will be ignored, so it doesn't matter what you provide.
 
+## Whitepaper
+
+- [Fostering and Simplifying Data Science Transfer Pathways in Massachusetts](https://dsc-wav.github.io/facdev22/pathways/pathways.pdf)
+
 ## Resources
 
-- [DSC-WAV project](http://dsc-wav.github.io/www/) and related [paper](https://hdsr.mitpress.mit.edu/pub/nvflcexe/release/1)
+- [DSC-WAV project](http://dsc-wav.github.io/www/) and [Massachusetts Data Science Symposium](https://dsc-wav.github.io/facdev22/)
+- DSC-WAV papers: [HDSR](https://hdsr.mitpress.mit.edu/pub/nvflcexe/release/1) and [FoDS ](http://dx.doi.org/10.3934/fods.2022003)
 - [Two Year College Data Science Summit](https://www.amstat.org/ASA/Education/Two-Year-College-Data-Science-Summit.aspx)
 - [Data Science for Undergraduates (NASEM 2018)](https://nas.edu/envisioningds)
 - [NASEM Roundtable on Data Science Postsecondary Education](https://www.nationalacademies.org/event/06-12-2019/roundtable-on-data-science-postsecondary-education-meeting-11)
@@ -44,6 +49,6 @@ The subject and body of the message will be ignored, so it doesn't matter what y
 
 ## Acknowledgements
 
-Thanks to NSF grant 1923388 for support of the DSC-WAV project.
+Thanks to NSF grants 1923388 and 1924017 for support of the DSC-WAV project.
 
-Last updated April 8, 2021
+Last updated July 9, 2022
