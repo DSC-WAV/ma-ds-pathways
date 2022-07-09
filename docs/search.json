@@ -5,14 +5,14 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\nWelcome to the Massachusetts Data Science Pathways project.\nThis organization is for Massachusetts educators and other stakeholders focused on data science pathways from high school through two- and four- colleges and universities.\nFor more information please contact Nicholas Horton (Amherst College).\n\n\n\n",
-      "last_modified": "2022-07-09T14:55:23-04:00"
+      "contents": "\nWelcome to the Massachusetts Data Science Pathways project.\nThis organization is for Massachusetts educators and other\nstakeholders focused on data science pathways from high school through\ntwo- and four- colleges and universities.\nFor more information please contact Nicholas Horton\n(Amherst College).\n\n\n\n",
+      "last_modified": "2022-07-09T15:02:20-04:00"
     },
     {
       "path": "emaillist.html",
       "author": [],
-      "contents": "\nHere is the current list:\nNon-digest (regular) members: bbaumer@smith.edu (Ben Baumer) jbrownsederberg@massasoit.mass.edu (Janet Brown-Sederberg) nhorton@amherst.edu (Nicholas Horton) cdorsey@concord.org (Chad Dorsey) ddamelin@concord.org (Dan Damelin) vhill@stcc.edu (Hill, Vanessa) nicholasjhorton@gmail.com (Nicholas Horton) andee_rubin@terc.edu (Andee Rubin) afarikumahe@gcc.mass.edu (Eben Afarikumah) adustin78@smith.edu (Andrea Dustin) bcheikes@cs.umass.edu (Brant Cheikes) ajcollins@stcc.edu (Collins, Andrew) Digest members: vbarr@mtholyoke.edu (Valerie Barr) mdharris@bhcc.edu (Harris, Michael)\nYou can get this any time you want! Just address an email to ma-ds-pathways-request@cs.umass.edu. No subject line, and an otherwise empty message body except for “who yourpassword”.\nSend the message and the listserver will reply with the current membership.\nIf you don’t know your listserver password, just send a message to the -request address above, but with the word “password” in the message body. The server will send you your password, which you can then use in the “who” request.\n\n\n",
-      "last_modified": "2022-07-09T14:55:23-04:00"
+      "contents": "\nHere is the current list:\nNon-digest (regular) members: bbaumer@smith.edu (Ben Baumer) jbrownsederberg@massasoit.mass.edu (Janet\nBrown-Sederberg) nhorton@amherst.edu (Nicholas Horton) cdorsey@concord.org\n(Chad Dorsey) ddamelin@concord.org (Dan Damelin) vhill@stcc.edu (Hill,\nVanessa) nicholasjhorton@gmail.com (Nicholas Horton) andee_rubin@terc.edu (Andee Rubin) afarikumahe@gcc.mass.edu (Eben Afarikumah) adustin78@smith.edu\n(Andrea Dustin) bcheikes@cs.umass.edu (Brant Cheikes) ajcollins@stcc.edu\n(Collins, Andrew) Digest members: vbarr@mtholyoke.edu (Valerie Barr) mdharris@bhcc.edu\n(Harris, Michael)\nYou can get this any time you want! Just address an email to ma-ds-pathways-request@cs.umass.edu. No subject line,\nand an otherwise empty message body except for “who yourpassword”.\nSend the message and the listserver will reply with the current\nmembership.\nIf you don’t know your listserver password, just send a message to\nthe -request address above, but with the word “password” in the message\nbody. The server will send you your password, which you can then use in\nthe “who” request.\n\n\n",
+      "last_modified": "2022-07-09T15:02:20-04:00"
     },
     {
       "path": "index.html",
@@ -20,7 +20,7 @@
       "description": "Welcome to the website.\n",
       "author": [],
       "contents": "\nThis website describes the Massachusetts Data Science Pathways\nproject.\nThe organization is intended for Massachusetts educators and other\nstakeholders focused on data science pathways from high school through\ntwo- and four- colleges and universities.\nTo join our low volume mailing list please send an email\nma-ds-pathways-join AT cs.umass.edu. The subject and body\nof the message will be ignored, so it doesn’t matter what you\nprovide.\nWhitepaper\nFostering\nand Simplifying Data Science Transfer Pathways in Massachusetts\nResources\nDSC-WAV project and Massachusetts Data Science\nSymposium\nDSC-WAV papers: HDSR and\nFoDS\nTwo\nYear College Data Science Summit\nData Science for\nUndergraduates (NASEM 2018)\nNASEM\nRoundtable on Data Science Postsecondary Education\nIntegrating\ncomputing in the statistics and data science curriculum (JSDSE)\nIntroductory Data Science\nCourses\nBerkeley Data 8\nData Science in a Box\nModern Data Science\nwith R\nA\nfresh look at introductory data science\nBroadening Participation\nECEP Alliance\nCOPSS DEI Task\nForce\nTalks\nNEMATYC Horton DSC-WAV\nAcknowledgements\nThanks to NSF grants 1923388 and 1924017 for support of the DSC-WAV\nproject.\nLast updated July 9, 2022\n\n\n\n",
-      "last_modified": "2022-07-09T15:00:36-04:00"
+      "last_modified": "2022-07-09T15:02:21-04:00"
     }
   ],
   "collections": []
