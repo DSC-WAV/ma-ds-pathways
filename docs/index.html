@@ -23,6 +23,7 @@
 pre > code.sourceCode { white-space: pre; position: relative; }
 pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
 div.sourceCode { margin: 1em 0; }
 pre.sourceCode { margin: 0; }
@@ -53,7 +54,7 @@ div.sourceCode
 @media screen {
 pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
-code span. { color: #00769e; } /* Normal */
+code span { color: #00769e; } /* Normal */
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
 code span.at { color: #657422; } /* Attribute */
@@ -2116,42 +2117,68 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<p>This website describes the Massachusetts Data Science Pathways project.</p>
-<p>The organization is intended for Massachusetts educators and other stakeholders focused on data science pathways from high school through two- and four- colleges and universities.</p>
-<p>To join our low volume mailing list please send an email <code>ma-ds-pathways-join AT cs.umass.edu</code>. The subject and body of the message will be ignored, so it doesn’t matter what you provide.</p>
+<p>This website describes the Massachusetts Data Science Pathways
+project.</p>
+<p>The organization is intended for Massachusetts educators and other
+stakeholders focused on data science pathways from high school through
+two- and four- colleges and universities.</p>
+<p>To join our low volume mailing list please send an email
+<code>ma-ds-pathways-join AT cs.umass.edu</code>. The subject and body
+of the message will be ignored, so it doesn’t matter what you
+provide.</p>
 <h2 id="whitepaper">Whitepaper</h2>
 <ul>
-<li><a href="https://dsc-wav.github.io/facdev22/pathways/pathways.pdf">Fostering and Simplifying Data Science Transfer Pathways in Massachusetts</a></li>
+<li><a
+href="https://dsc-wav.github.io/facdev22/pathways/pathways.pdf">Fostering
+and Simplifying Data Science Transfer Pathways in Massachusetts</a></li>
 </ul>
 <h2 id="resources">Resources</h2>
 <ul>
-<li><a href="http://dsc-wav.github.io/www/">DSC-WAV project</a> and <a href="https://dsc-wav.github.io/facdev22/">Massachusetts Data Science Symposium</a></li>
-<li>DSC-WAV papers: <a href="https://hdsr.mitpress.mit.edu/pub/nvflcexe/release/1">HDSR</a> and <a href="http://dx.doi.org/10.3934/fods.2022003">FoDS</a></li>
-<li><a href="https://www.amstat.org/ASA/Education/Two-Year-College-Data-Science-Summit.aspx">Two Year College Data Science Summit</a></li>
-<li><a href="https://nas.edu/envisioningds">Data Science for Undergraduates (NASEM 2018)</a></li>
-<li><a href="https://www.nationalacademies.org/event/06-12-2019/roundtable-on-data-science-postsecondary-education-meeting-11">NASEM Roundtable on Data Science Postsecondary Education</a></li>
-<li><a href="https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1870416">Integrating computing in the statistics and data science curriculum (JSDSE)</a></li>
+<li><a href="http://dsc-wav.github.io/www/">DSC-WAV project</a> and <a
+href="https://dsc-wav.github.io/facdev22/">Massachusetts Data Science
+Symposium</a></li>
+<li>DSC-WAV papers: <a
+href="https://hdsr.mitpress.mit.edu/pub/nvflcexe/release/1">HDSR</a> and
+<a href="http://dx.doi.org/10.3934/fods.2022003">FoDS</a></li>
+<li><a
+href="https://www.amstat.org/ASA/Education/Two-Year-College-Data-Science-Summit.aspx">Two
+Year College Data Science Summit</a></li>
+<li><a href="https://nas.edu/envisioningds">Data Science for
+Undergraduates (NASEM 2018)</a></li>
+<li><a
+href="https://www.nationalacademies.org/event/06-12-2019/roundtable-on-data-science-postsecondary-education-meeting-11">NASEM
+Roundtable on Data Science Postsecondary Education</a></li>
+<li><a
+href="https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1870416">Integrating
+computing in the statistics and data science curriculum (JSDSE)</a></li>
 </ul>
-<h2 id="introductory-data-science-courses">Introductory Data Science Courses</h2>
+<h2 id="introductory-data-science-courses">Introductory Data Science
+Courses</h2>
 <ul>
 <li><a href="http://data8.org">Berkeley Data 8</a></li>
 <li><a href="https://datasciencebox.org">Data Science in a Box</a></li>
-<li><a href="https://mdsr-book.github.io/mdsr2e">Modern Data Science with R</a></li>
-<li><a href="https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1804497?src=recsys">A fresh look at introductory data science</a></li>
+<li><a href="https://mdsr-book.github.io/mdsr2e">Modern Data Science
+with R</a></li>
+<li><a
+href="https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1804497?src=recsys">A
+fresh look at introductory data science</a></li>
 </ul>
 <h2 id="broadening-participation">Broadening Participation</h2>
 <ul>
 <li><a href="https://ecepalliance.org">ECEP Alliance</a></li>
-<li><a href="https://community.amstat.org/copss/who/dei">COPSS DEI Task Force</a></li>
+<li><a href="https://community.amstat.org/copss/who/dei">COPSS DEI Task
+Force</a></li>
 </ul>
 <h2 id="talks">Talks</h2>
 <ul>
 <li><a href="static/NEMATYC-Horton.pdf">NEMATYC Horton DSC-WAV</a></li>
 </ul>
 <h2 id="acknowledgements">Acknowledgements</h2>
-<p>Thanks to NSF grants 1923388 and 1924017 for support of the DSC-WAV project.</p>
+<p>Thanks to NSF grants 1923388 and 1924017 for support of the DSC-WAV
+project.</p>
 <p>Last updated July 9, 2022</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
